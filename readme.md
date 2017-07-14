@@ -37,6 +37,10 @@ class AppServiceProvider extends ServiceProvider
 ```
 
 ## Konfigurasi database
+Jalankan perintah ini untuk mengcopy file `.env.example`:
+```bash
+$   cp .env.example .env
+```
 Silahkan ubah settingan database di file `.env` yang ini ga perlu saya jelasin yah hehe.
 
 ## Migrasi database & jalankan aplikasi di browser
