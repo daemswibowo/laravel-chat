@@ -7,7 +7,7 @@ Penting! Pastikan Anda sudah menginstall NodeJS (https://docs.npmjs.com/cli/inst
 Jika ke duanya sudah ada di komputer anda selanjutnya clone repositori ini dan ketik perintah berikut di terminal :
 
 ```bash
-$ 	cd laravel-event-broadcasting
+$ 	cd laravel-chat
 $ 	npm install
 $ 	composer install
 ```
